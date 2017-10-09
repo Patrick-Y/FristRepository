@@ -1,0 +1,2 @@
+# FristRepository
+For test！-- JAVA
